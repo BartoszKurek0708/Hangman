@@ -1,1 +1,2 @@
 # Hangman
+Autor Jakub Gembicki
