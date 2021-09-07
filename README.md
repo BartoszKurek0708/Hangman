@@ -1,3 +1,4 @@
 # Hangman
 
-moja zmiana w pliku
+Autor Jakub Gembicki, Maciej Strekowski
+
