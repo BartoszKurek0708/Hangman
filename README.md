@@ -1,3 +1,3 @@
 # Hangman
 
-moja zmiana
+moja zmiana w pliku
